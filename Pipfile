@@ -7,8 +7,12 @@ name = "pypi"
 kaggle = "*"
 jupyter = "*"
 pandas = "*"
+scikit-learn = "*"
+numpy = "*"
+setuptools = "*"
+pip = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
